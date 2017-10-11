@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails Portfolio Project - Your Wardrobe Tracker"
-date:       2017-10-11 19:17:31 +0000
+date:       2017-10-11 15:17:32 -0400
 permalink:  rails_portfolio_project_-_your_wardrobe_tracker
 ---
 
@@ -15,9 +15,11 @@ I abandoned my first run at this project because I screwed it up to the point of
 Another realization also came out of this project, I need to review. I need to recommit and be social. I need to use the terminology. I need to finish this program. It will still take me forever to work through lessons and labs but I can get there. People will get sick, the idiot who lives above us may flood us out again but I can finish this. And get a decent job. And hopefully get some sleep. 
 
 
-A basic but good overall Rails cheat sheet for those magical times when your brain locks up: http://www.pragtob.info/rails-beginner-cheatsheet/
+A basic but good overall Rails cheat sheet for those magical times when your brain locks up: 
+http://www.pragtob.info/rails-beginner-cheatsheet/
 
-This article was helpful when deciding which generators to use: http://bshap27.github.io/2015/03/15/Generators-Cheat-Sheet.html
+This article was helpful when deciding which generators to use: 
+http://bshap27.github.io/2015/03/15/Generators-Cheat-Sheet.html
 
 This is one of the Rails model cheat sheets I found beneficial while learning to navigate complicated relationships: https://gist.github.com/rstacruz/1569572.
 
